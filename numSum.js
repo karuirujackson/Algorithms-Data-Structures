@@ -11,3 +11,5 @@ function numSum (nums, target) {
 }
 
 console.log(numSum([2,7,11,15], 9));
+
+//Big-O ==> O(n) Linear
