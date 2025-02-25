@@ -12,4 +12,4 @@ const arr1 = [1, 2];
 const arr2 = [3, 4, 5];
 console.log(cartesianProduct(arr1, arr2)); //Output: [(1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5)]
 
-//Big-o Time Complexity: Big-O ==> O(m * n)
+//Big-o Time Complexity: Big-O ==> O(m * n)https://www.youtube.com/watch?v=jrY7eONLHZs&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&index=31&pp=iAQB
