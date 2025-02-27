@@ -23,6 +23,7 @@ class Queue {
 
     peek () {
         return this.items[this.front];
+        
     }
 
     size () {

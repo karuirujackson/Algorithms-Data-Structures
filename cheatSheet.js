@@ -18,3 +18,7 @@
 //---------Big-O Time Complexity-----
 //Insert/Remove/Access: Big-O ==> 0(1)
 //Search/Object.keys()/ .values()/ .entries() ==> 0(n)
+
+
+//-----------Custom Data Structures---------------
+//Stacks, Queues and Linked Lists.
